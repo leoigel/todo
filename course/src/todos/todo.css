@@ -1,0 +1,11 @@
+.todo_list {
+    max-height: 12vw;
+    overflow: scroll;
+}
+.todo_list li {
+    border: 1px solid;
+    margin: 1vw 0;
+}
+.title {
+    text-align: center;
+}

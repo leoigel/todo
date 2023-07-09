@@ -1,0 +1,34 @@
+
+.users_container {
+    display: flex;
+    width: 35vw;
+    justify-content: space-around;
+}
+.user_container {
+    margin: 1vw 0;
+    max-height: 18vw;
+
+}
+.btns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vw; 
+    width: 100%;
+}
+.user_container.green {
+    border: 1px solid #009900;
+}
+.user_container.red  {
+    border:1px solid #ff0000;
+}
+.user_container.orange {
+    background-color: orange;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.wrapper {
+    height: 5vw;
+ 
+}

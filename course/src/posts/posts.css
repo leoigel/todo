@@ -1,0 +1,9 @@
+.post {
+    width: 23vw;
+    border: 1px solid;
+    padding: 1vw 1vw 3vw;
+}
+.posts {
+    height: 16vw;
+    overflow: scroll;
+}
